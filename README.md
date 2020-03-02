@@ -16,3 +16,5 @@ ________________________________________________________________________________
 - [Linear Algebra Course](https://www.edx.org/es/course/linear-algebra-foundations-to-frontiers)
 - [Docker for DS](https://www.business-science.io/business/2019/11/22/docker-for-data-science.html)
 - [Python Numba](https://towardsdatascience.com/python-numba-or-numpy-understand-the-differences-b448dabd5b5b)
+- [Exploratory DA](https://towardsdatascience.com/exploratory-data-analysis-with-pandas-profiling-de3aae2ddff3)
+- [NFL data](https://medium.com/kaggle-blog/from-football-newbies-to-nfl-data-champions-a-winners-interview-with-the-zoo-391793168714)
