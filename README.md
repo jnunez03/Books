@@ -9,6 +9,7 @@
 - [Educated](https://www.gatesnotes.com/Books/Educated)
 - [The Gene](https://www.amazon.com/Gene-Intimate-History-Siddhartha-Mukherjee/dp/1432837818)
 - [Mindset](https://www.gatesnotes.com/Books/Mindset-The-New-Psychology-of-Success)
+- [Top 2019 Books Nyt](https://www.nytimes.com/2019/12/05/books/times-critics-top-books-of-2019.html?action=click&pgtype=Article&state=default&module=STYLN_bestof2019_menu&variant=1_bestof2019_menu&region=header&context=menu)
 _________________________________________________________________________________________________________________
 ### Other
 
