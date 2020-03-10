@@ -20,3 +20,4 @@ ________________________________________________________________________________
 - [Exploratory DA](https://towardsdatascience.com/exploratory-data-analysis-with-pandas-profiling-de3aae2ddff3)
 - [NFL data](https://medium.com/kaggle-blog/from-football-newbies-to-nfl-data-champions-a-winners-interview-with-the-zoo-391793168714)
 - [BigQuery best practices](https://towardsdatascience.com/bigquery-best-practices-9452c294c9d9)
+- [D3 Js](https://observablehq.com/@mitvis/introduction-to-d3)
