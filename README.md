@@ -14,6 +14,7 @@ ________________________________________________________________________________
 ### Other
 
 - [Shiny in R](https://shiny.rstudio.com)
+- [R for DS](https://r4ds.had.co.nz)
 - [Linear Algebra Course](https://www.edx.org/es/course/linear-algebra-foundations-to-frontiers)
 - [Docker for DS](https://www.business-science.io/business/2019/11/22/docker-for-data-science.html)
 - [Python Numba](https://towardsdatascience.com/python-numba-or-numpy-understand-the-differences-b448dabd5b5b)
@@ -21,3 +22,6 @@ ________________________________________________________________________________
 - [NFL data](https://medium.com/kaggle-blog/from-football-newbies-to-nfl-data-champions-a-winners-interview-with-the-zoo-391793168714)
 - [BigQuery best practices](https://towardsdatascience.com/bigquery-best-practices-9452c294c9d9)
 - [D3 Js](https://observablehq.com/@mitvis/introduction-to-d3)
+- [Gradient Descent](https://ruder.io/optimizing-gradient-descent/index.html#challenges)
+- [Bayesian Inf.](https://towardsdatascience.com/bayesian-inference-algorithms-mcmc-and-vi-a8dad51ad5f5)
+- [Big Data Joins](https://towardsdatascience.com/guide-to-big-data-joins-python-sql-pandas-spark-dask-51b7f4fec810)
