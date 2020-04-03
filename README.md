@@ -25,3 +25,4 @@ ________________________________________________________________________________
 - [Gradient Descent](https://ruder.io/optimizing-gradient-descent/index.html#challenges)
 - [Bayesian Inf.](https://towardsdatascience.com/bayesian-inference-algorithms-mcmc-and-vi-a8dad51ad5f5)
 - [Big Data Joins](https://towardsdatascience.com/guide-to-big-data-joins-python-sql-pandas-spark-dask-51b7f4fec810)
+- [Think Stats](http://greenteapress.com/thinkstats/thinkstats.pdf)
