@@ -26,3 +26,5 @@ ________________________________________________________________________________
 - [Bayesian Inf.](https://towardsdatascience.com/bayesian-inference-algorithms-mcmc-and-vi-a8dad51ad5f5)
 - [Big Data Joins](https://towardsdatascience.com/guide-to-big-data-joins-python-sql-pandas-spark-dask-51b7f4fec810)
 - [Think Stats](http://greenteapress.com/thinkstats/thinkstats.pdf)
+- [R: pvalues](https://rcompanion.org/handbook/G_10.html)
+- [pvalues explained](https://towardsdatascience.com/p-values-explained-by-data-scientist-f40a746cfc8)
