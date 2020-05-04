@@ -28,3 +28,7 @@ ________________________________________________________________________________
 - [Think Stats](http://greenteapress.com/thinkstats/thinkstats.pdf)
 - [R: pvalues](https://rcompanion.org/handbook/G_10.html)
 - [pvalues explained](https://towardsdatascience.com/p-values-explained-by-data-scientist-f40a746cfc8)
+- [pvalues article](https://towardsdatascience.com/why-are-p-values-like-needles-its-dangerous-to-share-them-b94c11be537)
+- [stats series](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpBxX2S9wXJUhB1_ha3ADFpF)
+- [Map Pandas](https://towardsdatascience.com/understand-map-function-to-manipulate-pandas-series-8ac340d514f7)
+- [stats series](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpBxX2S9wXJUhB1_ha3ADFpF)
